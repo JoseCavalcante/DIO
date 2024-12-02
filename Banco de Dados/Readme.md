@@ -7,7 +7,8 @@ identificadas como: Pedido, Cliente, Produto, Fornecedor e Estoque</p>
 <p>Os pontos de desafios tirados na segunda etapa do levantamento foram:</p>
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;</li>
+  <li>Pagamento – Pode ter cadastrado mais de uma forma de pagamento;</li>
+  <li>Entrega – Possui status e código de rastreio;</li>
 </ul>
+<p>Segue neste repositório o modelo para avaliação.</p>
