@@ -6,8 +6,8 @@ identificadas como: Pedido, Cliente, Produto, Fornecedor e Estoque</p>
 <p>Agora, depois de analisar e descutir melhor com o cliente foram identificadas outras entidades que estão mapeadas no modelo Entidade Relacionamento (ER) anexado a este repositó para avaliação e aprovação.</p>
 <p>Os pontos de desafios tirados na segunda etapa do levantamento foram:</p>
 
-<ol>
+<ul>
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
-</ol>
+</ul>
