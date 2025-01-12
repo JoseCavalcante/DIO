@@ -15,6 +15,9 @@
     <li>F_Vendas (SK_ID , ID_Produto, Produto, Units Sold, Sales Price, Discount Band, Segment, Country, Salers, Profit, Date (campos))</li>    
   </ul>
 </ul>
+<br>
+<p>A tabela <b>Calendar</b>, processo de construção:</p>
+<p>Foi observado que na tabela importada, no campo <Date>, observou se o menor ano da lista e a partir deste ano criou se a tabela calendario automatica até a data atual. /p>
 
 
 
