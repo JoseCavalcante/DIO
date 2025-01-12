@@ -17,7 +17,7 @@
 </ul>
 <br>
 <p>A tabela <b>Calendar</b>, processo de construção:</p>
-<p>Foi observado que na tabela importada, no campo <Date>, observou se o menor ano da lista e a partir deste ano criou se a tabela calendario automatica até a data atual. /p>
+<p>A tabela importada, na coluna data, observou-se o menor ano daquela lista e a partir do menor ano daquela lista de datas criou-se a tabela calendario que se constroi automatica até a data atual. /p>
 
 
 
